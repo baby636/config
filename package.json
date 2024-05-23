@@ -25,7 +25,7 @@
     "eslint": "^7.3.1",
     "eslint-config-oclif": "^3.1.0",
     "eslint-config-oclif-typescript": "^0.2.0",
-    "fancy-test": "^1.4.3",
+    "fancy-test": "^3.0.16",
     "lodash": "^4.17.11",
     "mocha": "^8.2.1",
     "proxyquire": "^2.1.0",
